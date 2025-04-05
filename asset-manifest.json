@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.029b4bf6.css",
-    "main.js": "/Portfolio/static/js/main.abdd4cc5.js",
+    "main.css": "/Portfolio/static/css/main.5fc72b12.css",
+    "main.js": "/Portfolio/static/js/main.6f8414f1.js",
     "static/media/Bhakti Patel_CV.pdf": "/Portfolio/static/media/Bhakti Patel_CV.c6a0a5f84a6d3a5d4d8a.pdf",
     "static/media/certificate.pdf": "/Portfolio/static/media/certificate.e8d58c83557cb76defbd.pdf",
     "static/media/Algorthims.png": "/Portfolio/static/media/Algorthims.095fd49371f148e20f51.png",
@@ -11,11 +11,11 @@
     "static/media/system.png": "/Portfolio/static/media/system.3b86fce2235f6ea3b324.png",
     "static/media/MU.png": "/Portfolio/static/media/MU.8a3f70d897ea4cffed0c.png",
     "index.html": "/Portfolio/index.html",
-    "main.029b4bf6.css.map": "/Portfolio/static/css/main.029b4bf6.css.map",
-    "main.abdd4cc5.js.map": "/Portfolio/static/js/main.abdd4cc5.js.map"
+    "main.5fc72b12.css.map": "/Portfolio/static/css/main.5fc72b12.css.map",
+    "main.6f8414f1.js.map": "/Portfolio/static/js/main.6f8414f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.029b4bf6.css",
-    "static/js/main.abdd4cc5.js"
+    "static/css/main.5fc72b12.css",
+    "static/js/main.6f8414f1.js"
   ]
 }
