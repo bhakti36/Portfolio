@@ -100,7 +100,7 @@ const Experience = () => {
               <img
                 src={exp.image}
                 alt={exp.company}
-                className="w-20 h-20 object-cover rounded-full max-w-fullw-full h-full object-cover object-center transform transition-transform duration-300 hover:scale-110"
+                className="w-20 h-20 object-cover rounded-full max-w-fullw-full  object-center transform transition-transform duration-300 hover:scale-110"
               />
              
               <div>
